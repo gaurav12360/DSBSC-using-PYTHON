@@ -145,7 +145,7 @@ TABULAR COLUMN
 
 
 
-<img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/857fcb74-1b1f-4fe2-a33b-10d58362a469" />
+
 
 RESULT
 The message signal, carrier signal, and DSB-SC modulated signal were successfully generated and plotted using Python.
