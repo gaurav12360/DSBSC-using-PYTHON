@@ -137,6 +137,12 @@ plt.show()
 
 OUTPUT WAVEFORM
 
+<img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/495cc141-0e8f-4dfc-803e-f6a34443f0b3" />
+
+
+TABULAR COLUMN
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d19f7f7d-3880-460d-bcf7-1f3db175ffbb" />
+
 
 
 <img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/857fcb74-1b1f-4fe2-a33b-10d58362a469" />
