@@ -13,74 +13,7 @@ THEORY
 Double Sideband Suppressed Carrier (DSB-SC) modulation is a type of amplitude modulation in which the carrier is completely suppressed, and only the sidebands containing the message information are transmitted.
 Unlike conventional AM, the transmitted power in DSB-SC is concentrated in the sidebands, making it more power efficient. The modulated signal is obtained by multiplying the carrier and message signals directly.
 
-Mathematically,
 
-𝑠
-(
-𝑡
-)
-=
-𝑚
-(
-𝑡
-)
-⋅
-cos
-⁡
-(
-2
-𝜋
-𝑓
-𝑐
-𝑡
-)
-s(t)=m(t)⋅cos(2πf
-c
-	​
-
-t)
-
-where
-
-𝑚
-(
-𝑡
-)
-=
-𝐴
-𝑚
-cos
-⁡
-(
-2
-𝜋
-𝑓
-𝑚
-𝑡
-)
-m(t)=A
-m
-	​
-
-cos(2πf
-m
-	​
-
-t) is the message signal,
-
-𝑓
-𝑐
-f
-c
-	​
-
- is the carrier frequency, and
-
-𝑠
-(
-𝑡
-)
-s(t) is the DSB-SC modulated signal.
 
 ALGORITHM
 
@@ -141,7 +74,8 @@ OUTPUT WAVEFORM
 
 
 TABULAR COLUMN
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d19f7f7d-3880-460d-bcf7-1f3db175ffbb" />
+<img width="1168" height="1280" alt="image" src="https://github.com/user-attachments/assets/cbf3b353-5833-4a5b-8135-1b244e48c164" />
+
 
 
 
